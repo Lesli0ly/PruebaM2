@@ -1,0 +1,53 @@
+.navbar {
+    background-color: #1e9aa3;
+}
+
+i {
+    background-color: #1e9aa3;
+}
+
+.card-text{
+    background-color: #1e9aa3;
+    text-align: start;
+}
+
+h6{
+    background-color: #1e9aa3;
+}
+
+.card-body{
+    background-color: #1e9aa3;
+}
+
+form{
+    padding-left: 70pt;
+    padding-right: 70pt;
+}
+
+h3{
+    text-align: center;
+}
+
+footer{
+    background-color: #1e9aa3;
+    display:inline-flex;
+    align-items: baseline;
+}  
+
+#botonForm{
+    background-color: #1e9aa3;
+}
+
+#p1{
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+}
+
+#p2{
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+}
+#p3{
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+}
